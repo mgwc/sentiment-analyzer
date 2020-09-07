@@ -1,0 +1,6 @@
+0 This was not as much fun as I thought it would be .
+1 I had a lot of fun on this and learned a lot .
+-1 It would be more fun if we had more time to work on it .
+2 I didn’t think programming in C++ could be so much fun !
+-2 I would have preferred an easier assignment .
+2 I can’t think of anything more fun than learning C++ !
